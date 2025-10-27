@@ -7,6 +7,7 @@ Fit three growth models (exponential, logistic, Gompertz) to U.S. population dat
 **Contents**
 - Notebooks/Project3.ipynb  — analysis and plots
 - Latex/Project_3.pdf       — write-up (intro, methods, results, conclusions)
+- Presentation/Project 3.pptx - presentation of findings and methods
 
 **Methods**
 - Estimate parameters by minimizing MAE/RMSE (and check residuals)
